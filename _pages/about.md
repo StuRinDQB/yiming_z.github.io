@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Yiming Zeng, a PhD Candidate in Computer Science from University of Connecticut. I received my M.S. in Information Science from University of Connecticut in 2023 and B.E. in Information System in 2020. I used to be a software engineer in Baidu and researcher in UPMC Hillman Cancer Center.
+This is Yiming Zeng, a PhD Candidate in Computer Science from University of Connecticut. I received my M.S. in Information Science from University of Pittsburgh in 2023 and B.E. in Information System in 2020. I used to be a software engineer in Baidu and researcher in UPMC Hillman Cancer Center.
 
 News🎆
 ======
