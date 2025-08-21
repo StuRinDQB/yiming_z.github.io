@@ -11,7 +11,7 @@ This is Yiming Zeng, a PhD Candidate in Computer Science from University of Conn
 
 News🎆
 ======
-1. [August, 2025] My first author paper <a href="https://arxiv.org/abs/2502.13358" target="_blank" rel="noopener">"Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications"</a>  has been accepted by EMNLP2025! 
+1. [August, 2025] My first author paper <a href="https://arxiv.org/abs/2502.13358" target="_blank" rel="noopener">"Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications"</a>  has been accepted by **EMNLP2025** (Top Conference in AI and NLP)! 
 
 2. [April, 2025] I have passed the PhD Qualifying Exam and become a PhD Candidate in Computer Science!
 
