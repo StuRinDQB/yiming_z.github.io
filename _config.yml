@@ -22,7 +22,7 @@ repository               : "https://sturindqb.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yiming_Zeng.png"
+  avatar           : "Yiming_Zeng.jpg"
   name             : "Yiming Zeng"
   pronouns         : # example: "she/her"  
   bio              : "LLMs, AI, NLP, and Software Engineering"
