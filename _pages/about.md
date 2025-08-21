@@ -21,7 +21,8 @@ News🎆
 
 Project Experience
 ======
-### TreeDiff: AST-Guided Code Generation with Diffusion LLMs — *Research Project*
+### 
+<a href="https://www.arxiv.org/abs/2508.01473" target="_blank" rel="noopener">"TreeDiff: AST-Guided Code Generation with Diffusion LLMs"</a> — *Research Project*
 - Developed a **syntax-aware diffusion framework** for code generation by integrating **Abstract Syntax Trees (ASTs)** into the denoising process, ensuring syntactic correctness.  
 - Trained on **150K code reasoning samples** with **8 × 100 A100 GPUs**, achieving a **+4.27% pass@1 improvement on HumanEval** compared to baseline models.  
 - Demonstrated that **structural priors** significantly enhance diffusion-based LLMs in program synthesis, with potential applications in **software engineering** and **developer tools**.  
