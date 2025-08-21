@@ -22,22 +22,17 @@ News🎆
 Projects
 ======
 
-1. Hospital Survey System.[UPMC Hillman Cancer Center]
-Developed a hospital survey platform from scratch to production using MVC architecture, enabling researchers to
-create and manage surveys efficiently.
-• Built an interactive survey editor with React Hooks, TypeScript, and Ant Design, implementing a drag-and-drop feature
-that simplified survey customization.
-• Designed and implemented a scalable backend using Express.js, establishing RESTful APIs and CRUD operations to handle
-survey data, responses, and administrative controls seamlessly.
-• Optimized MongoDB database schemas by implementing efficient indexing strategies, improving query performance by 40%
-and ensuring scalable data storage for large-scale survey responses.
 
-2. Switch System Developing. [Cisco-Inspur]
-Developed authentication module for switch system using Spring Boot + JPA, enabling efficient user verification.
-• Implemented asynchronous processing for receiving users’ information, leveraging @Async in Spring Boot, which
-improved authentication efficiency by 30% by reducing request handling time.
-• Designed and optimized MAC address verification for voice phone authentication using regular expressions,
-ensuring accurate user matching and reducing authentication errors. Managed project dependencies using Spring Beans
-for efficient object lifecycle control.
-• Enhanced system scalability by implementing pagination for MAC address retrieval across controller, service,
-and repository layers, significantly optimizing data retrieval performance and reducing query load for large datasets
+### Hospital Survey System — *UPMC Hillman Cancer Center*
+- Designed and deployed a hospital survey platform using **MVC architecture**, enabling researchers to efficiently create and manage surveys.  
+- Built an interactive survey editor with **React Hooks**, **TypeScript**, and **Ant Design**, including a drag-and-drop feature for intuitive customization.  
+- Developed a scalable backend with **Express.js** and RESTful APIs to support CRUD operations for surveys, responses, and admin controls.  
+- Optimized **MongoDB schemas** with indexing strategies, improving query performance by **40%** and supporting large-scale survey response storage.  
+
+---
+
+### Switch System Development — *Cisco-Inspur*
+- Implemented an authentication module with **Spring Boot + JPA**, streamlining user verification for enterprise switch systems.  
+- Applied **asynchronous processing (@Async)** to handle user data, improving authentication efficiency by **30%**.  
+- Enhanced MAC address verification for **voice phone authentication** using regex-based validation, reducing mismatches and errors.  
+- Added **pagination** across controller, service, and repository layers for scalable MAC address retrieval, reducing query load and improving performance on large datasets.  
