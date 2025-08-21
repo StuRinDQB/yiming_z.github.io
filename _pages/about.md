@@ -19,7 +19,7 @@ News🎆
 
 4. [July, 2024] My paper <a href="https://pubmed.ncbi.nlm.nih.gov/38313267/" target="_blank" rel="noopener">"reguloGPT: Harnessing GPT for Knowledge Graph Construction of Molecular Regulatory Pathways"</a>  has been accepted by IEEE BHI 2024! 
 
-Projects
+Industry Experience
 ======
 
 
