@@ -19,10 +19,17 @@ News🎆
 
 4. [July, 2024] My paper <a href="https://pubmed.ncbi.nlm.nih.gov/38313267/" target="_blank" rel="noopener">"reguloGPT: Harnessing GPT for Knowledge Graph Construction of Molecular Regulatory Pathways"</a>  has been accepted by IEEE BHI 2024! 
 
+Project Experience
+======
+### TreeDiff: AST-Guided Code Generation with Diffusion LLMs — *Research Project*
+- Proposed a **syntax-aware diffusion framework** for code generation, integrating **Abstract Syntax Trees (ASTs)** into the denoising process to enforce syntactic correctness:contentReference[oaicite:0]{index=0}.  
+- Developed an **AST-guided masking strategy** that masks entire syntactic subtrees during training, improving reconstruction accuracy and long-range dependency modeling.  
+- Conducted large-scale experiments on **150K code reasoning samples**, achieving **+4.27% pass@1 improvement on HumanEval** and **+7.18% on MBPP** compared to baseline models:contentReference[oaicite:1]{index=1}.  
+- Demonstrated that incorporating structural priors significantly improves diffusion-based LLMs in program synthesis, with potential applications in software engineering and developer tools.  
+
+
 Industry Experience
 ======
-
-
 ### Hospital Survey System — *UPMC Hillman Cancer Center*
 - Designed and deployed a hospital survey platform using **MVC architecture**, enabling researchers to efficiently create and manage surveys.  
 - Built an interactive survey editor with **React Hooks**, **TypeScript**, and **Ant Design**, including a drag-and-drop feature for intuitive customization.  
@@ -36,3 +43,9 @@ Industry Experience
 - Applied **asynchronous processing (@Async)** to handle user data, improving authentication efficiency by **30%**.  
 - Enhanced MAC address verification for **voice phone authentication** using regex-based validation, reducing mismatches and errors.  
 - Added **pagination** across controller, service, and repository layers for scalable MAC address retrieval, reducing query load and improving performance on large datasets.  
+
+Teaching Experience
+======
+**Adjunct Lecturer — CSE2102 (University of Connecticut)**  
+- Taught *React.js* fundamentals (Hooks, state management, component-based UI design).  
+- Guided students in deploying full-stack projects (**React frontend + Express backend**) to AWS.  
