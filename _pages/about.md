@@ -13,6 +13,7 @@ This is Yiming Zeng, a PhD Candidate in Computer Science from University of Conn
 # News
 1. **[August, 2025]** 🎆 Excited to share that my **first-author paper** [*"Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications"*](https://arxiv.org/abs/2502.13358) has been accepted to **EMNLP 2025** 🎉 (a **top-tier conference** in AI and NLP)! Huge thanks to my amazing collaborators.  
 
+
 2. **[April, 2025]** 🎉 I have passed the PhD Qualifying Exam and become a **PhD Candidate** in Computer Science.
 
 3. **[August, 2024]** I relocated from Pittsburgh to Connecticut to pursue my PhD in **Computer Science** at the University of Connecticut, and I am grateful to be working under the guidance of Dr. Tingting Yu.
