@@ -11,12 +11,7 @@ This is Yiming Zeng, a PhD Candidate in Computer Science from University of Conn
 
 
 # News
-1. **[August, 2025]** 🎆 Excited to share that my **first-author paper** [*"Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications"*](https://arxiv.org/abs/2502.13358) has been accepted to **EMNLP 2025** 🎉 (a **top-tier conference** in AI and NLP)! Huge thanks to my amazing collaborators 🙌.  
-
-   - 🔹 In this work, we **bridge the gap** between large language models and **fine-grained editing needs**.  
-   - 🔹 We design an **automated pipeline** to construct **comprehensive instruction-based editing datasets**.  
-   - 🔹 We introduce **FineEdit**, a **state-of-the-art model** that sets **new benchmarks** for **precise and targeted text editing**.  
-
+1. **[August, 2025]** 🎆 Excited to share that my **first-author paper** [*"Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications"*](https://arxiv.org/abs/2502.13358) has been accepted to **EMNLP 2025** 🎉 (a **top-tier conference** in AI and NLP)! Huge thanks to my amazing collaborators.  
 
 2. **[April, 2025]** 🎉 I have passed the PhD Qualifying Exam and become a **PhD Candidate** in Computer Science.
 
