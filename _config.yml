@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Yiming Zeng"
 description              : &description LLMs, AI, NLP, and Software Engineering. A researcher, creator, and Engineer who want to change the world. Ph.D Candidate in Computer Science @ UConn"
 url: "https://sturindqb.github.io"   # 注意：不要有 /
-baseurl: "yiming_z.github.io"        # 去掉前面的 /
+baseurl: "/yiming_z.github.io"        # 去掉前面的 /
 repository: "sturindqb/sturindqb.github.io"
 
 
