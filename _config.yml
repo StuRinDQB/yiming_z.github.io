@@ -13,7 +13,7 @@ title                    : "Yiming Zeng / PhD Candidate in Computer Science @ Un
 title_separator          : "-"
 name                     : &name "Yiming Zeng"
 description              : &description LLMs, AI, NLP, and Software Engineering. A researcher, creator, and Engineer who want to change the world. Ph.D Candidate in Computer Science @ UConn"
-url                      : https://sturindqb.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://sturindqb.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/yiming_z.github.io" 
 repository               : "sturindqb/yiming_z.github.io"   # 注意：这里不要写完整 URL
 
