@@ -1,4 +1,20 @@
+/* ===============================
+   Custom overrides for Jekyll site
+   Author: Yiming Zeng
+   =============================== */
+
+/* 设置头像为方形 */
 img.author__avatar {
-  border-radius: 0 !important;
-  object-fit: cover;   /* 保持比例，不被拉伸 */
+  border-radius: 0 !important; /* 去掉圆角 */
+  object-fit: cover;           /* 保持比例裁剪 */
+  width: 200px;                /* 可调整大小 */
+  height: 200px;               /* 可调整大小 */
+}
+
+/* 如果你希望头像在小屏幕上自适应，可以加上 */
+@media (max-width: 600px) {
+  img.author__avatar {
+    width: 120px;
+    height: 120px;
+  }
 }
