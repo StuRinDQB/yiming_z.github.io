@@ -18,10 +18,12 @@
   img.author__avatar {
     border-radius: 0 !important;
     object-fit: cover;
-    width: 200px;
-    height: 200px;
+    width: 100%;        /* 占满父容器宽度 */
+    max-width: 200px;   /* 但最大不超过 200px */
+    height: auto;       /* 高度自适应 */
   }
 </style>
+
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
