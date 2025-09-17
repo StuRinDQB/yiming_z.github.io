@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sturindqb.github.io/yiming_z.github.io/sitemap.xml
