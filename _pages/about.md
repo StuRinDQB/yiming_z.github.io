@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+About Me
 This is Yiming Zeng, a PhD Candidate in Computer Science from University of Connecticut. I received my M.S. in Information Science from University of Pittsburgh in 2023 and B.E. in Information System in 2020. I used to be a software engineer in Baidu and researcher in UPMC Hillman Cancer Center.
 
 
@@ -20,29 +20,12 @@ This is Yiming Zeng, a PhD Candidate in Computer Science from University of Conn
 
 4. **[July, 2024]** Our paper <a href="https://pubmed.ncbi.nlm.nih.gov/38313267/" target="_blank" rel="noopener">"reguloGPT: Harnessing GPT for Knowledge Graph Construction of Molecular Regulatory Pathways"</a>  has been accepted by IEEE BHI 2024. This is one of my major work in UPMC Hillman Cancer Center under the supervision of Dr. Yufei Huang.
 
-Project Experience
+
+Acadimic Service
 ======
-<a href="https://www.arxiv.org/abs/2508.01473" target="_blank" rel="noopener">"TreeDiff: AST-Guided Code Generation with Diffusion LLMs"</a> — *Research Project*
-- Developed a **syntax-aware diffusion framework** for code generation by integrating **Abstract Syntax Trees (ASTs)** into the denoising process, ensuring syntactic correctness.  
-- Trained on **150K code reasoning samples** with **8 × 100 A100 GPUs**, achieving a **+4.27% pass@1 improvement on HumanEval** compared to baseline models.  
-- Demonstrated that **structural priors** significantly enhance diffusion-based LLMs in program synthesis, with potential applications in **software engineering** and **developer tools**.  
+Reviewer: NeurIPS 2025, AAAI 2025
 
 
-Industry Experience
-======
-### Hospital Survey System — *UPMC Hillman Cancer Center*
-- Designed and deployed a hospital survey platform using **MVC architecture**, enabling researchers to efficiently create and manage surveys.  
-- Built an interactive survey editor with **React Hooks**, **TypeScript**, and **Ant Design**, including a drag-and-drop feature for intuitive customization.  
-- Developed a scalable backend with **Express.js** and RESTful APIs to support CRUD operations for surveys, responses, and admin controls.  
-- Optimized **MongoDB schemas** with indexing strategies, improving query performance by **40%** and supporting large-scale survey response storage.  
-
----
-
-### Switch System Development — *Cisco-Inspur*
-- Implemented an authentication module with **Spring Boot + JPA**, streamlining user verification for enterprise switch systems.  
-- Applied **asynchronous processing (@Async)** to handle user data, improving authentication efficiency by **30%**.  
-- Enhanced MAC address verification for **voice phone authentication** using regex-based validation, reducing mismatches and errors.  
-- Added **pagination** across controller, service, and repository layers for scalable MAC address retrieval, reducing query load and improving performance on large datasets.  
 
 Teaching Experience
 ======
