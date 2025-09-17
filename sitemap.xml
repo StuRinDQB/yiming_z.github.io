@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sturindqb.github.io/yiming_z.github.io/</loc>
-    <lastmod>2025-09-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2025-08-29</lastmod>
   </url>
   <url>
-    <loc>https://sturindqb.github.io/yiming_z.github.io/publications.html</loc>
-    <lastmod>2025-09-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://sturindqb.github.io/yiming_z.github.io/markdown_generator/</loc>
+    <lastmod>2025-08-29</lastmod>
   </url>
   <url>
-    <loc>https://sturindqb.github.io/yiming_z.github.io/projects.html</loc>
-    <lastmod>2025-09-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://sturindqb.github.io/yiming_z.github.io/talkmap/map.html</loc>
+    <lastmod>2025-08-29</lastmod>
   </url>
 </urlset>
