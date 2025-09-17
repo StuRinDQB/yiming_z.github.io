@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
-======
 This is Yiming Zeng, a PhD Candidate in Computer Science from University of Connecticut. I received my M.S. in Information Science from University of Pittsburgh in 2023 and B.E. in Information System in 2020. I used to be a software engineer in Baidu and researcher in UPMC Hillman Cancer Center. 
 
 I am fortunate to be advised by Dr. Tingting Yu and deeply appreciate the opportunity to collaborate with Dr. Shangqian Gao on exploring large language models (LLMs).
