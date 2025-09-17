@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yiming Zeng / PhD Candidate in Computer Science @ University of Conneciticut"
+title                    : "Yiming Zeng - PhD Candidate in Computer Science @ University of Conneciticut"
 title_separator          : "-"
 name                     : &name "Yiming Zeng"
 description              : &description LLMs, AI, NLP, and Software Engineering. A researcher, creator, and Engineer who want to change the world. Ph.D Candidate in Computer Science @ UConn"
