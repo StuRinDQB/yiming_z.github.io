@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is Yiming Zeng, a PhD Candidate in Computer Science from University of Connecticut. I received my M.S. in Information Science from University of Pittsburgh in 2023 and B.E. in Information System in 2020. I used to be a software engineer in Baidu and researcher in UPMC Hillman Cancer Center. 
+This is Yiming Zeng, a **PhD Candidate in Computer Science from University of Connecticut.** I received my M.S. in Information Science from University of Pittsburgh in 2023 and B.E. in Information System in 2020. I used to be a software engineer in **Baidu** and **AI researcher** in UPMC Hillman Cancer Center. 
 
-I am fortunate to be advised by Dr. Tingting Yu and deeply appreciate the opportunity to collaborate with Dr. Shangqian Gao on exploring large language models (LLMs).
+I am fortunate to be advised by **Dr. Tingting Yu** and deeply appreciate the opportunity to collaborate with **Dr. Shangqian Gao** on exploring large language models (LLMs).
 
-My area of interests lie in Large Language Models especially in Model Training, Efficient LLMs, and AI for Code Generation. If you are interest in colloration with me, please email yiming.zeng@uconn.edu.
+My area of interests lie in **Large Language Models** especially in **Model Training, Efficient LLMs, and LLMs for Code Generation**. If you are interest in colloration with me, please email yiming.zeng@uconn.edu.
 
 
 # News
