@@ -15,23 +15,15 @@ My area of interests lie in **Large Language Models** especially in **Model Trai
 
 ## News
 
-<div class="news-scroll-box">
+<div class="news-box">
 
-<div class="news-item">
-<strong>[February, 2026]</strong> 🎉 Our paper <em>“Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry”</em> has been accepted to <strong>ICLR 2026</strong>.
-</div>
+<p><strong>[February, 2026]</strong> 🎉 Our paper “Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry” has been accepted to <strong>ICLR 2026</strong>.</p>
 
-<div class="news-item">
-<strong>[August, 2025]</strong> 🎆 Excited to share that my <strong>first-author paper</strong> <a href="https://arxiv.org/abs/2502.13358">“Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications”</a> has been accepted to <strong>EMNLP 2025</strong>.
-</div>
+<p><strong>[August, 2025]</strong> 🎆 Excited to share that my first-author paper “Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications” has been accepted to <strong>EMNLP 2025</strong>.</p>
 
-<div class="news-item">
-<strong>[August, 2025]</strong> Happy to share that our paper <em>“PromptSculptor: Multi-Agent Based Text-to-Image Prompt Optimization”</em> has been accepted to <strong>EMNLP Demonstration Track 2025</strong>.
-</div>
+<p><strong>[August, 2025]</strong> Happy to share that our paper “PromptSculptor: Multi-Agent Based Text-to-Image Prompt Optimization” has been accepted to <strong>EMNLP Demonstration Track 2025</strong>.</p>
 
-<div class="news-item">
-<strong>[April, 2025]</strong> 🎉 I passed the PhD Qualifying Exam and became a <strong>PhD Candidate</strong>.
-</div>
+<p><strong>[April, 2025]</strong> 🎉 I passed the PhD Qualifying Exam and became a PhD Candidate.</p>
 
 </div>
 
