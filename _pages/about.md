@@ -6,27 +6,38 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is Yiming Zeng, a **PhD Candidate in Computer Science from University of Connecticut (UConn).** I received my M.S. in Information Science from University of Pittsburgh in 2023 and B.E. in Information System in 2020. I used to be a software engineer in **Baidu** and **AI researcher** in UPMC Hillman Cancer Center. 
+This is Yiming Zeng, a **PhD Candidate in Computer Science at the University of Connecticut (UConn).** I received my M.S. in Information Science from University of Pittsburgh in 2023 and B.E. in Information System in 2020. I used to be a software engineer in **Baidu** and **AI researcher** in UPMC Hillman Cancer Center. 
 
 I am fortunate to be advised by **Dr. Tingting Yu** and deeply appreciate the opportunity to collaborate with **Dr. Shangqian Gao** on exploring large language models (LLMs).
 
 My area of interests lie in **Large Language Models** especially in **Model Training, Efficient LLMs, and LLMs for Code Generation**. If you are interest in colloration with me, please email yiming.zeng@uconn.edu.
 
 
-# News
-1. **[August, 2025]** 🎆 Excited to share that my **first-author paper** [*"Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications"*](https://arxiv.org/abs/2502.13358) has been accepted to **EMNLP 2025** 🎉 (a **top-tier conference** in AI and NLP)! Huge thanks to my amazing collaborators.  
+## News
 
-2. **[August, 2025]** Happy to share that our paper[*"PromptSculptor: Multi-Agent Based Text-to-Image Prompt Optimization"*] has been accepted to **EMNLP Demonstration Track 2025**
+<div class="news-scroll-box">
 
-3. **[April, 2025]** 🎉 I have passed the PhD Qualifying Exam and become a **PhD Candidate** in Computer Science & Engineering.
+<div class="news-item">
+<strong>[February, 2026]</strong> 🎉 Our paper <em>“Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry”</em> has been accepted to <strong>ICLR 2026</strong>.
+</div>
 
-4. **[August, 2024]** I relocated from Pittsburgh to Connecticut to pursue my PhD in **Computer Science** at the University of Connecticut, and I am grateful to be working under the guidance of Dr. Tingting Yu.
+<div class="news-item">
+<strong>[August, 2025]</strong> 🎆 Excited to share that my <strong>first-author paper</strong> <a href="https://arxiv.org/abs/2502.13358">“Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications”</a> has been accepted to <strong>EMNLP 2025</strong>.
+</div>
 
+<div class="news-item">
+<strong>[August, 2025]</strong> Happy to share that our paper <em>“PromptSculptor: Multi-Agent Based Text-to-Image Prompt Optimization”</em> has been accepted to <strong>EMNLP Demonstration Track 2025</strong>.
+</div>
 
+<div class="news-item">
+<strong>[April, 2025]</strong> 🎉 I passed the PhD Qualifying Exam and became a <strong>PhD Candidate</strong>.
+</div>
+
+</div>
 
 Academic Service
 ======
-Reviewer: NeurIPS 2025, AAAI 2025
+Reviewer: ICLR2026, NeurIPS 2025, AAAI 2025
 
 
 Teaching Experience
