@@ -52,7 +52,7 @@ Reviewer: ICLR 2026, NeurIPS 2025, AAAI 2025
 
 ## Personal Interests
 
-🏓 **Table Tennis:** Outside of research, I enjoy playing table tennis and once finished as the **runner-up in a USATT division tournament**.
+🏓 **Table Tennis:** Outside of research, I enjoy playing table tennis and once finished as the **runner-up in a USATT division tournament** (Columbus, Ohio, 2025).
 
 🏃 **Running & Fitness:** I also enjoy running and working out regularly to stay active and maintain a healthy lifestyle.
 
