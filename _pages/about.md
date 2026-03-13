@@ -23,6 +23,9 @@ My area of interests lie in **Large Language Models** especially in **Model Trai
 <p><strong>[August, 2025]</strong> Happy to share that our paper “PromptSculptor: Multi-Agent Based Text-to-Image Prompt Optimization” has been accepted to <strong>EMNLP Demonstration Track 2025</strong>.</p>
 
 <p><strong>[April, 2025]</strong> 🎉 I passed the PhD Qualifying Exam and became a PhD Candidate.</p>
+
+<p><strong>[August, 2024]</strong> 🎓 I relocated from Pittsburgh to Connecticut to begin my PhD in Computer Science at the University of Connecticut. I am grateful to work under the guidance of <strong>Dr. Tingting Yu</strong>, focusing on large language models and NLP.</p>
+
 </div>
 
 ## Academic Service
