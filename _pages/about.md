@@ -11,7 +11,9 @@ This is Yiming Zeng, a 2nd year **PhD student in Computer Science at the Univers
 
 I am fortunate to be advised by **Dr. Tingting Yu** and deeply appreciate the opportunity to collaborate with **Dr. Shangqian Gao** on exploring large language models (LLMs).
 
-My area of interests lie in **Large Language Models** especially in **Model Training, Efficient LLMs, and LLMs for Code Generation**. If you are interested in collaboration with me, please email yiming.zeng@uconn.edu.
+My area of interests lie in **Large Language Models** especially in **Model Training, Efficient LLMs, and LLMs for Code Generation**. 
+
+If you are interested in collaboration with me, please email yimingzeng99@gmail.com. I am particularly interested in working with researchers who have strong experience in top-tier NLP/ML venues (e.g., ACL, EMNLP, NeurIPS, ICLR, ICML).
 
 ## News
 
