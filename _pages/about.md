@@ -13,7 +13,7 @@ I am fortunate to be advised by **Dr. Tingting Yu** and deeply appreciate the op
 
 My area of interests lie in **Large Language Models** especially in **Model Training, Efficient LLMs, and LLMs for Code Generation**. 
 
-If you are interested in collaboration with me, please email yimingzeng99@gmail.com. I am particularly interested in working with researchers who have strong experience in top-tier NLP/ML venues (e.g., ACL, EMNLP, NeurIPS, ICLR, ICML).
+If you are interested in collaboration with me, please email yimingzeng99@gmail.com. I am particularly interested in working with researchers who have strong experience in top-tier NLP/ML venues (e.g., ACL, EMNLP, NAACL, NeurIPS, ICLR, ICML).
 
 ## News
 
