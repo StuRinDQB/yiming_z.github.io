@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/llm-as-judge
 date: 2026-02-01
 venue: "ICLR 2026"
-authors: "Z. Li, Y. Zhang, M. Li, Y. Ji, Y. Zeng, N. Cheng, Y. Zhu, Y. Wang, S. Wang"
+authors: "Z. Li, Y. Zhang, M. Li, Y. Ji, Y. Zeng, N. Cheng, Y. Zhu, Y. Wang, S. Wang.."
 paperurl: "https://arxiv.org/abs/2601.22588"
 ---
 
