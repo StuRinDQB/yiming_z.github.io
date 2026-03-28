@@ -9,4 +9,4 @@ authors: "Yiming Zeng, Wanhao Yu, Zexin Li, Tao Ren, Yu Ma, Jinghan Cao, Xiyan C
 paperurl: "https://aclanthology.org/2025.findings-emnlp.118v2.pdf"
 ---
 
-Accepted at **EMNLP 2025**.
+Accepted to **EMNLP 2025**.

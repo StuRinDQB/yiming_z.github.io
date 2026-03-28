@@ -9,4 +9,4 @@ authors: "Z. Li, Y. Zhang, M. Li, Y. Ji, Y. Zeng, N. Cheng, Y. Zhu, Y. Wang, S. 
 paperurl: "https://arxiv.org/abs/2601.22588"
 ---
 
-Accepted at **ICLR 2026**.
+Accepted to **ICLR 2026**.
