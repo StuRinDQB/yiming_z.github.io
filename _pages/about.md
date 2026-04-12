@@ -19,9 +19,9 @@ If you are interested in collaboration with me, please email yimingzeng99@gmail.
 
 <div class="news-box">
 
-<p><strong>[April, 2026]</strong> 🎉 I’m excited to share that I will be joining <strong>ByteDance</strong> as a <strong>Research Scientist Intern</strong> in San Jose this Summer. See you in the Valley!</p>
+<p><strong>[April, 2026]</strong> I will be joining <strong>ByteDance</strong> as a <strong>Research Scientist Intern</strong> in San Jose this Summer. See you in the Valley!</p>
 
-<p><strong>[April, 2026]</strong> 🎉 I’m excited to share that our paper <strong>“HyperEdit: Unlocking Instruction-based Text Editing in LLMs via Hypernetworks”</strong> has been accepted to <strong>ACL 2026</strong> in <strong>San Diego</strong>. See you there!</p>
+<p><strong>[April, 2026]</strong> I’m excited to share that my first-author paper <strong>“HyperEdit: Unlocking Instruction-based Text Editing in LLMs via Hypernetworks”</strong> has been accepted to <strong>ACL 2026</strong> in <strong>San Diego</strong>. See you there!</p>
 
 <p><strong>[February, 2026]</strong> 🎉 Our paper “Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry” has been accepted to <strong>ICLR 2026</strong>.</p>
 
