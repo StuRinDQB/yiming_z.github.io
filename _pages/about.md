@@ -18,6 +18,9 @@ If you are interested in collaboration with me, please email yimingzeng99@gmail.
 ## News
 
 <div class="news-box">
+
+<p><strong>[April, 2026]</strong> 🎉 I’m excited to share that I will be joining <strong>ByteDance</strong> as a <strong>Research Scientist Intern</strong> in San Jose this Summer. See you in the Valley!</p>
+
 <p><strong>[February, 2026]</strong> 🎉 Our paper “Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry” has been accepted to <strong>ICLR 2026</strong>.</p>
 
 <p><strong>[August, 2025]</strong> 🎆 Excited to share that my first-author paper “Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications” has been accepted to <strong>EMNLP 2025</strong>.</p>
